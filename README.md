@@ -49,7 +49,7 @@ just it! 😀
   <img alt="React Theme Switcher" title="React Theme Switcher" src=".github/themeswitcher.png" />
 </h1>
 
-Simple project to change the theme (Dark/Light). It can be used easily in any project. Enjoy! 🥰
+Simple project to change the theme (Dark/Light) and storing in localstorage. It can be used easily in any project. Enjoy! 🥰
 
 ---
 

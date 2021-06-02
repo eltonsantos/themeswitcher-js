@@ -9,7 +9,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="React Theme Switch in JS" title="React Theme Switch in JS" src=".github/themeswitcher.gif" />
+  <img alt="React Theme Switcher" title="React Theme Switcher" src=".github/themeswitcher.gif" />
 </h1>
 
 ---
@@ -46,7 +46,7 @@ just it! 😀
 ## 💻 Project
 
 <h1 align="center">
-  <img alt="React Theme Switch in JS" title="React Theme Switch in JS" src=".github/themeswitcher.png" />
+  <img alt="React Theme Switcher" title="React Theme Switcher" src=".github/themeswitcher.png" />
 </h1>
 
 Simple project to change the theme (Dark/Light). It can be used easily in any project. Enjoy! 🥰

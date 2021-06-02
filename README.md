@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>💛 React Theme Switch in JS 🖤</strong>
+  <strong>💛 React Theme Switcher in JS 🖤</strong>
 </h1>
 
 <p align="center">

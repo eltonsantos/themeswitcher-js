@@ -6,7 +6,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>
-<br>
+</p>
 
 <h1 align="center">
   <img alt="React Theme Switcher" title="React Theme Switcher" src=".github/themeswitcher.gif" />
